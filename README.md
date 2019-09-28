@@ -19,7 +19,7 @@ To activate the Virtual Environment(On Windows):
 
 `venv\Scripts\activate`
 
-Following command allows you to run `Flash Run` automatically when you start virtual environment
+Following command allows you to run `Flask Run` automatically when you start virtual environment
 
 `pip install python-dotenv`
 
