@@ -6,19 +6,19 @@
 I have provided all of the code to deploy an example Flask application. The purpose of this example app is to demonstrate the inner-working of a flask app, providing a reference for how the different files in the app interact with one another. In order to run the application, follow the instructions detailed below. We also provide
 instructions for how to deploy your webapp live on the internet via a website called **pythonanywhere**.
 
----
+
 ## Outcome of the Project
 
 I have created a project by using Flask include some CSS design. Please visit the website if you want to get some idea of creating this project.
 
 * [Final Outcome - Flask App Project](http://cct823.pythonanywhere.com/)
----
+
 ## Example Functions
 There are sample functions included in this sample project. Here's the explanation of the functions: 
 
 1. ASCII art: take text input and generate text output.
 2. Invert Image: take image input and invert image color from RGB to BGR
----
+
 ## How to Use
 
 ### Running the App Locally
