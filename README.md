@@ -4,8 +4,7 @@
 ## Basic Flask Application:
 
 I have provided all of the code to deploy an example Flask application. The purpose of this example app is to demonstrate the inner-working of a flask app, providing a reference for how the different files in the app interact with one another. In order to run the application, follow the instructions detailed below. We also provide
-instructions for how to deploy your webapp live on the internet via a temporary
-domain using software called pythonanywhere).
+instructions for how to deploy your webapp live on the internet via a website called **pythonanywhere**).
 
 ---
 ## Outcome of the Project
