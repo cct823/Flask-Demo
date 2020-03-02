@@ -21,7 +21,7 @@ There are sample functions included in this sample project. Here's the explanati
 ---
 ## How to Use
 
-###Running the App Locally
+### Running the App Locally
 
 Note that Steps 1-3 deal with running your flask app from a virtual environment with virtualenv. Many tutorials online use virtualenv, but just know that these steps are entirely optional.  
 
