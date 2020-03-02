@@ -6,24 +6,24 @@
 I have provided all of the code to deploy an example Flask application. The purpose of this example app is to demonstrate the inner-working of a flask app, providing a reference for how the different files in the app interact with one another. In order to run the application, follow the instructions detailed below. We also provide
 instructions for how to deploy your webapp live on the internet via a temporary
 domain using software called pythonanywhere).
-
 ---
-## How to Use
 
-### Outcome of the project
+## Outcome of the Project
 
 I have created a project by using Flask include some CSS design. Please visit the website if you want to get some idea of creating this project.
 
 * [Final Outcome - Flask App Project](http://cct823.pythonanywhere.com/)
-
-### Flask Demo Include
+---
+## Example Functions
 There are sample functions included in this sample project. Here's the explanation of the functions: 
 
 1. ASCII art: take text input and generate text output.
 2. Invert Image: take image input and invert image color from RGB to BGR
+---
+## How to Use
 
+**Running the App Locally**
 
-### Running the App Locally:
 Note that Steps 1-3 deal with running your flask app from a virtual environment with virtualenv. Many tutorials online use virtualenv, but just know that these steps are entirely optional.  
 
 1. Step into the ExampleApp directory
@@ -105,8 +105,8 @@ It provides an in depth tutorial that covers everything one might need to get st
 web apps. 
 
 * [Intro Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-
-### Deploy website by pythonanywhere
+---
+## Deploy website by pythonanywhere
 
 There are many ways to deploy a website, and pythonanywhere is the easiest I found for a small project. Pythonanywhere provides a 512 MB plan for free user and you can upgrade if you need more space. It also provide the bash console which allows you to clone the repo from GitHub. 
 
