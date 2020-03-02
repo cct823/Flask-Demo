@@ -22,7 +22,7 @@ There are sample functions included in this sample project. Here's the explanati
 ---
 ## How to Use
 
-**Running the App Locally**
+###Running the App Locally
 
 Note that Steps 1-3 deal with running your flask app from a virtual environment with virtualenv. Many tutorials online use virtualenv, but just know that these steps are entirely optional.  
 
@@ -105,8 +105,8 @@ It provides an in depth tutorial that covers everything one might need to get st
 web apps. 
 
 * [Intro Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
----
-## Deploy website by pythonanywhere
+
+### Deploy website by pythonanywhere
 
 There are many ways to deploy a website, and pythonanywhere is the easiest I found for a small project. Pythonanywhere provides a 512 MB plan for free user and you can upgrade if you need more space. It also provide the bash console which allows you to clone the repo from GitHub. 
 
