@@ -6,8 +6,8 @@
 I have provided all of the code to deploy an example Flask application. The purpose of this example app is to demonstrate the inner-working of a flask app, providing a reference for how the different files in the app interact with one another. In order to run the application, follow the instructions detailed below. We also provide
 instructions for how to deploy your webapp live on the internet via a temporary
 domain using software called pythonanywhere).
----
 
+---
 ## Outcome of the Project
 
 I have created a project by using Flask include some CSS design. Please visit the website if you want to get some idea of creating this project.
