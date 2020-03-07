@@ -11,7 +11,7 @@ instructions for how to deploy your webapp live on the internet via a website ca
 
 I have created a project by using Flask include some CSS design. Please visit the website if you want to get some idea of creating this project.
 
-* [Final Outcome - Flask App Project](http://cct823.pythonanywhere.com/)
+* [Final Outcome - Flask App Project](http://ist341.pythonanywhere.com/)
 
 ## Example Functions
 There are sample functions included in this sample project. Here's the explanation of the functions: 
