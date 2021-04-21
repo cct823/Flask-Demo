@@ -6,7 +6,7 @@ except:
     print("Make sure to pip install Flask twilio")
 from app import app
 import os
-from werkzeug import secure_filename
+from werkzeug.utils import secure_filename
 try:
     from PIL import Image
     import PIL.ImageOps
